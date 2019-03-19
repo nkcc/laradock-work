@@ -1,2 +1,4 @@
 *.conf
 !default.conf
+!tiao.conf
+!tiao_admin.conf
